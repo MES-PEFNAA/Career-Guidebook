@@ -3,7 +3,7 @@
 Prepared by the **Mechanical Engineering Society** under the guidance of **PEFNAA**.
 
 ### 📖 Read / Download the Guidebook
-- [📥 Click here to read & download the Guidebook PDF](https://github.com/MES-PEFNAA/Career-Guidebook/blob/main/Mechanical%20Engineering%20Career%20Handbook.pdf)
+- [📥 Click here to Read / Download the Guidebook PDF](https://github.com/MES-PEFNAA/Career-Guidebook/blob/main/Mechanical%20Engineering%20Career%20Handbook.pdf)
 
 ---
 ### 📝 Feedback
